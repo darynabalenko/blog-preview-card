@@ -1,12 +1,12 @@
 @font-face {
   font-family: "Figtree";
-  src: url("_fonts/Figtree-Medium.ttf") format("truetype");
+  src: url("assets/fonts/Figtree-Medium.ttf") format("truetype");
   font-weight: 500;
 }
 
 @font-face {
   font-family: "Figtree";
-  src: url("_fonts/Figtree-ExtraBold.ttf") format("truetype");
+  src: url("assets/fonts/Figtree-ExtraBold.ttf") format("truetype");
   font-weight: 800;
 }
 
